@@ -13,6 +13,10 @@ Development using [LEGO](https://www.lego.com/)
 - [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
 
 
+### Discussion
+- [What programming language can I use to program a LEGO robot?](https://www.quora.com/What-programming-language-can-I-use-to-program-a-LEGO-robot)
+
+
 ### Open Source
 
 
@@ -21,7 +25,6 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Books
-
 
 
 ### Vendors
