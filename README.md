@@ -23,7 +23,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Papers
-
+- 2020 [Educational Robotics: Platforms, Competitions and Expected Learning Outcomes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9281039)
 
 
 ### Books
