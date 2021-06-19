@@ -7,6 +7,7 @@ Development using [LEGO](https://www.lego.com/)
 
 ### Articles
 - 2021/01/13 [The Best Robotics Kits for Beginners](https://www.nytimes.com/wirecutter/reviews/best-robotics-kits-for-beginners/)
+- 2020/09/23 [Best Coding Robots for Kids 2021](https://www.androidcentral.com/best-coding-robots-kids)
 - 2018/11/29 [Alternative Programming Languages for LEGO MINDSTORMS](http://www.legoengineering.com/alternative-programming-languages/)
 
 
