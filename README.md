@@ -1,5 +1,5 @@
 # lego-study
-Development using LEGO
+Development using [LEGO](https://www.lego.com/)
 
 
 
@@ -8,7 +8,7 @@ Development using LEGO
 
 
 ### Information
-
+- [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
 
 
 ### Open Source
