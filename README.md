@@ -27,6 +27,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Books
+- 2021 [Pybricks Modules and Examples](https://docs.pybricks.com/_/downloads/en/latest/pdf/)
 
 
 ### Vendors
