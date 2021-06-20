@@ -2,7 +2,10 @@
 Development using [LEGO](https://www.lego.com/)
 
 
-
+### Types
+- MindStorm 3.0
+- Technic
+- WeDo 2.0
 
 
 ### Articles
