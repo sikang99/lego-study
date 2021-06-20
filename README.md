@@ -52,6 +52,7 @@ Development using [LEGO](https://www.lego.com/)
 ### Papers
 - 2020 [Educational Robotics: Platforms, Competitions and Expected Learning Outcomes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9281039)
 - 2020 [Legodroid: A Type-Driven Library for Android and LEGO Mindstorms Interoperability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181153/)
+- 2018 [Comparison on Cloud Image Classification for Thrash Collecting LEGO Mindstorms EV3 Robot](https://core.ac.uk/download/pdf/229280513.pdf)
 - 2017 [Application of color sensor programming with LEGO-Mindstorms NXT 2.0 to recreate a simplistic plague detection scenario](https://revistas.utp.edu.co/index.php/revistaciencia/article/view/15101/10621)
 - [A LEGO-based mobile robotic platform for evaluation of parallel control and estimation algorithm](http://uu.diva-portal.org/smash/get/diva2:476433/FULLTEXT01.pdf)
 - 2002 [A Lego-Based Soccer-Playing Robot Competition For Teaching Design](https://peer.asee.org/a-lego-soccer-playing-robot-competition-for-teaching-design.pdf)
