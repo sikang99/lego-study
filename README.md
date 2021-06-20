@@ -7,6 +7,7 @@ Development using [LEGO](https://www.lego.com/)
 ### Types
 - MindStorms RCX, NXT, NXT 2.0, EV3
     - [MindStorms EV3 User Guide](https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf)
+    - [MindStorms Education EV3](https://le-www-live-s.legocdn.com/sc/media/files/user-guides/ev3/ev3_user_guide_us-ab5d4fc71211c1edc77a7362bab2d88a.pdf?la=en-us)
 - Technic
 - WeDo 2.0
 
@@ -34,6 +35,8 @@ Development using [LEGO](https://www.lego.com/)
 ### Papers
 - 2020 [Educational Robotics: Platforms, Competitions and Expected Learning Outcomes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9281039)
 - 2017 [Application of color sensor programming with LEGO-Mindstorms NXT 2.0 to recreate a simplistic plague detection scenario](https://revistas.utp.edu.co/index.php/revistaciencia/article/view/15101/10621)
+- [A LEGO-based mobile robotic platform for evaluation of parallel control and estimation algorithm](http://uu.diva-portal.org/smash/get/diva2:476433/FULLTEXT01.pdf)
+
 
 ### Books
 - 2021 [Pybricks Modules and Examples](https://docs.pybricks.com/_/downloads/en/latest/pdf/)
