@@ -14,6 +14,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Articles
+- 2021/06/19 [How To Remote Control LEGO SPIKE Prime and Robot Inventor with Python](https://antonsmindstorms.com/2021/06/19/how-to-remote-control-lego-spike-prime-and-robot-inventor-with-python/?fbclid=IwAR1SSq4nC5K1vmOlUYrtYj-DQoX-GyjQyLBn5qYW8UOM69RosnR75PlZ_ZY)
 - 2021/01/13 [The Best Robotics Kits for Beginners](https://www.nytimes.com/wirecutter/reviews/best-robotics-kits-for-beginners/)
 - 2020/09/23 [Best Coding Robots for Kids 2021](https://www.androidcentral.com/best-coding-robots-kids)
 - 2018/11/29 [Alternative Programming Languages for LEGO MINDSTORMS](http://www.legoengineering.com/alternative-programming-languages/)
@@ -38,6 +39,8 @@ Development using [LEGO](https://www.lego.com/)
 ### Open Source
 - [ev3dev/ev3dev](https://github.com/ev3dev/ev3dev) - Debian Linux for LEGO MINDSTORMS EV3
 - [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi
+- [antonvh/technichub-remote-tank.py](https://gist.github.com/antonvh/aca9e9a32aaebe337af3fb1a6f2712aa)
+- [antonvh/technichub-remote-hotrod.py](https://gist.github.com/antonvh/88548d95e771043662f038de451e28f2)
 
 
 ### Videos
