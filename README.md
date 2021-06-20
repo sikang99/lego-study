@@ -33,7 +33,7 @@ Development using [LEGO](https://www.lego.com/)
 
 ### Papers
 - 2020 [Educational Robotics: Platforms, Competitions and Expected Learning Outcomes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9281039)
-
+- 2017 [Application of color sensor programming with LEGO-Mindstorms NXT 2.0 to recreate a simplistic plague detection scenario](https://revistas.utp.edu.co/index.php/revistaciencia/article/view/15101/10621)
 
 ### Books
 - 2021 [Pybricks Modules and Examples](https://docs.pybricks.com/_/downloads/en/latest/pdf/)
@@ -43,7 +43,4 @@ Development using [LEGO](https://www.lego.com/)
 - [LEGO](https://www.lego.com/) - Original
 - [SBrick](https://sbrick.com/) - a controlling system compatible with any LEGO family kits.
 - [ModuleKing](https://mouldkingblock.com/) 
-
-
-
 
