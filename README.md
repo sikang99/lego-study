@@ -10,6 +10,7 @@ Development using [LEGO](https://www.lego.com/)
     - [MindStorms Education EV3](https://le-www-live-s.legocdn.com/sc/media/files/user-guides/ev3/ev3_user_guide_us-ab5d4fc71211c1edc77a7362bab2d88a.pdf?la=en-us)
 - Technic
 - WeDo 2.0
+- Robot Inventor
 
 
 ### Articles
@@ -23,6 +24,7 @@ Development using [LEGO](https://www.lego.com/)
 - [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
 - [**BrickPi**](https://www.dexterindustries.com/brickpi/) - Raspberry Pi for LEGO
 - [WebRCX](http://www.sckans.edu/~sireland/lego/webrcx/)
+- [LEGO Brick Finder with OpenMV and Edge Impulse](https://www.digikey.com/en/maker/projects/lego-brick-finder-with-openmv-and-edge-impulse/1411a4242d884158ae8f656d5b9b0d53)
 
 
 ### Discussion
@@ -31,6 +33,7 @@ Development using [LEGO](https://www.lego.com/)
 
 ### Open Source
 - [ev3dev](https://github.com/ev3dev) - Debian Linux for LEGO MINDSTORMS EV3
+- [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi
 
 
 ### Papers
