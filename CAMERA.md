@@ -9,6 +9,7 @@
 ### Pixy Cam 
 - [Pixy for LEGO](https://pixycam.com/pixy-lego/)
 - [Pixy Cam - powered LEGO MINDSTORMS EV3 Mecha twins](https://www.youtube.com/watch?v=B7aDob76na0)
+- [Pixy2 Camera for Lego Mindstorms EV3](https://www.generationrobots.com/en/403346-pixy2-camera-for-lego-mindstorms-ev3.html) - E62.50
 
 
 
