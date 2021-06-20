@@ -21,7 +21,7 @@ Development using [LEGO](https://www.lego.com/)
 ### Information
 - [MakeCode](https://makecode.mindstorms.com/) for LEGO
 - [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
-- [**BrickPi**](https://www.dexterindustries.com/brickpi/)
+- [**BrickPi**](https://www.dexterindustries.com/brickpi/) - Raspberry Pi for LEGO
 
 
 ### Discussion
