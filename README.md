@@ -1,10 +1,11 @@
-# lego-study
+##  Study about LEGO
 Development using [LEGO](https://www.lego.com/)
 - Wiki: [Lego Mindstorms](https://en.wikipedia.org/wiki/Lego_Mindstorms)
+- Wiki: [Lego Technic](https://en.wikipedia.org/wiki/Lego_Technic)
 
 
 ### Types
-- MindStorms EV3
+- MindStorms RCX, NXT, NXT 2.0, EV3
     - [MindStorms EV3 User Guide](https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf)
 - Technic
 - WeDo 2.0
