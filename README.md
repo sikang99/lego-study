@@ -39,6 +39,10 @@ Development using [LEGO](https://www.lego.com/)
 - [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi
 
 
+### Videos
+- [LEGO Technic 42124](https://www.youtube.com/results?search_query=LEGO+Technic+42124)
+
+
 ### Papers
 - 2020 [Educational Robotics: Platforms, Competitions and Expected Learning Outcomes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9281039)
 - 2020 [Legodroid: A Type-Driven Library for Android and LEGO Mindstorms Interoperability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181153/)
