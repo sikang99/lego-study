@@ -3,7 +3,8 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Types
-- MindStorm 3.0
+- MindStorms EV3
+    - [MindStorms EV3 User Guide](https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf)
 - Technic
 - WeDo 2.0
 
