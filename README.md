@@ -32,7 +32,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Open Source
-- [ev3dev](https://github.com/ev3dev) - Debian Linux for LEGO MINDSTORMS EV3
+- [ev3dev/ev3dev](https://github.com/ev3dev/ev3dev) - Debian Linux for LEGO MINDSTORMS EV3
 - [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi
 
 
@@ -41,7 +41,7 @@ Development using [LEGO](https://www.lego.com/)
 - 2020 [Legodroid: A Type-Driven Library for Android and LEGO Mindstorms Interoperability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181153/)
 - 2017 [Application of color sensor programming with LEGO-Mindstorms NXT 2.0 to recreate a simplistic plague detection scenario](https://revistas.utp.edu.co/index.php/revistaciencia/article/view/15101/10621)
 - [A LEGO-based mobile robotic platform for evaluation of parallel control and estimation algorithm](http://uu.diva-portal.org/smash/get/diva2:476433/FULLTEXT01.pdf)
-- 2002 [A Lego-Based Soccer-Playing Robot Competition For Teaching Design](file:///Users/stoney/Downloads/a-lego-soccer-playing-robot-competition-for-teaching-design.pdf)
+- 2002 [A Lego-Based Soccer-Playing Robot Competition For Teaching Design](https://peer.asee.org/a-lego-soccer-playing-robot-competition-for-teaching-design.pdf)
 - 2001 [Building a LEGO ROV Using the MindStorms Robotics Kit](http://www3.mbari.org/archive/education/internship/01interns/01papers/winter.pdf)
 - 1999 [Robot Soccer with LEGO Mindstorms](https://link.springer.com/content/pdf/10.1007%2F3-540-48422-1_11.pdf)
 
