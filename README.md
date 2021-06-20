@@ -22,6 +22,7 @@ Development using [LEGO](https://www.lego.com/)
 - [MakeCode](https://makecode.mindstorms.com/) for LEGO
 - [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
 - [**BrickPi**](https://www.dexterindustries.com/brickpi/) - Raspberry Pi for LEGO
+- [WebRCX](http://www.sckans.edu/~sireland/lego/webrcx/)
 
 
 ### Discussion
@@ -37,6 +38,7 @@ Development using [LEGO](https://www.lego.com/)
 - 2020 [Legodroid: A Type-Driven Library for Android and LEGO Mindstorms Interoperability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181153/)
 - 2017 [Application of color sensor programming with LEGO-Mindstorms NXT 2.0 to recreate a simplistic plague detection scenario](https://revistas.utp.edu.co/index.php/revistaciencia/article/view/15101/10621)
 - [A LEGO-based mobile robotic platform for evaluation of parallel control and estimation algorithm](http://uu.diva-portal.org/smash/get/diva2:476433/FULLTEXT01.pdf)
+- 2001 [Building a LEGO ROV Using the MindStorms Robotics Kit](http://www3.mbari.org/archive/education/internship/01interns/01papers/winter.pdf)
 - 1999 [Robot Soccer with LEGO Mindstorms](https://link.springer.com/content/pdf/10.1007%2F3-540-48422-1_11.pdf)
 
 
