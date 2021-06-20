@@ -25,6 +25,7 @@ Development using [LEGO](https://www.lego.com/)
 - [**BrickPi**](https://www.dexterindustries.com/brickpi/) - Raspberry Pi for LEGO
 - [WebRCX](http://www.sckans.edu/~sireland/lego/webrcx/)
 - [LEGO Brick Finder with OpenMV and Edge Impulse](https://www.digikey.com/en/maker/projects/lego-brick-finder-with-openmv-and-edge-impulse/1411a4242d884158ae8f656d5b9b0d53)
+- [Microsoft MakeCode for LEGO® MINDSTORMS® Education EV3](https://makecode.com/blog/lego/05-15-2018)
 
 
 ### Discussion
