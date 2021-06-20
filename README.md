@@ -1,5 +1,6 @@
 # lego-study
 Development using [LEGO](https://www.lego.com/)
+- Wiki: [Lego Mindstorms](https://en.wikipedia.org/wiki/Lego_Mindstorms)
 
 
 ### Types
