@@ -17,6 +17,7 @@ Development using [LEGO](https://www.lego.com/)
 ### Information
 - [MakeCode](https://makecode.mindstorms.com/) for LEGO
 - [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
+- [**BrickPi**](https://www.dexterindustries.com/brickpi/)
 
 
 ### Discussion
@@ -24,6 +25,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Open Source
+- [ev3dev](https://github.com/ev3dev) - Debian Linux for LEGO MINDSTORMS EV3
 
 
 ### Papers
@@ -35,9 +37,9 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Vendors
-- [LEGO](https://www.lego.com/)
+- [LEGO](https://www.lego.com/) - Original
 - [SBrick](https://sbrick.com/) - a controlling system compatible with any LEGO family kits.
-
+- [ModuleKing](https://mouldkingblock.com/) 
 
 
 
