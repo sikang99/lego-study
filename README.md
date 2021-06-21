@@ -10,6 +10,7 @@ Development using [LEGO](https://www.lego.com/)
     - [MindStorms Education EV3](https://le-www-live-s.legocdn.com/sc/media/files/user-guides/ev3/ev3_user_guide_us-ab5d4fc71211c1edc77a7362bab2d88a.pdf?la=en-us)
 - Technic
 - WeDo 2.0
+- BuzWizz 3.0
 - Robot Inventor
 
 
