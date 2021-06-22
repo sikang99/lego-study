@@ -28,6 +28,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Information
+- LEGO: [InventorHub](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/)
 - [MakeCode](https://makecode.mindstorms.com/) for LEGO
 - [Microsoft MakeCode for LEGO® MINDSTORMS® Education EV3](https://makecode.com/blog/lego/05-15-2018)
 - [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
@@ -39,6 +40,8 @@ Development using [LEGO](https://www.lego.com/)
 - [The Lego Car Blog](https://thelegocarblog.com/)
 - [**Anton's MINDSTORMS Hacks**](https://antonsmindstorms.com/)
 - [Virtual Robotics Toolkits](https://www.virtualroboticstoolkit.com/)
+- [The Top 22 Lego Open Source Projects](https://awesomeopensource.com/projects/lego)
+
 
 
 ### Discussion
@@ -46,6 +49,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Open Source
+- [https://github.com/LEGO](https://github.com/LEGO) 
 - [ev3dev/ev3dev](https://github.com/ev3dev/ev3dev) - Debian Linux for LEGO MINDSTORMS EV3
 - [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi
 - [antonvh/technichub-remote-tank.py](https://gist.github.com/antonvh/aca9e9a32aaebe337af3fb1a6f2712aa)
@@ -54,7 +58,7 @@ Development using [LEGO](https://www.lego.com/)
 - [g3gg0/LegoRemote](https://github.com/g3gg0/LegoRemote)
 - [w4ilun/lego-ble-controller](https://github.com/w4ilun/lego-ble-controller) - Lego BLE Controller w/ Web Bluetooth
 - [lemio/esp32_ble_wedo](https://github.com/lemio/esp32_ble_wedo) - A library to control LEGO wedo 2.0 with the ESP32 through Bluetooth low energy
-
+- [JorgePe/BOOSTreveng](https://github.com/JorgePe/BOOSTreveng)
 
 
 ### Videos
