@@ -53,6 +53,8 @@ Development using [LEGO](https://www.lego.com/)
 - [cwiz/mobile-autonomous-robot-with-lego-mindstorm-nvidia-jetson](https://github.com/cwiz/mobile-autonomous-robot-with-lego-mindstorm-nvidia-jetson) - Project of autonomous robot using LEGO, NVIDIA Jetson (Interl 3d camera) on ROS Melodic
 - [g3gg0/LegoRemote](https://github.com/g3gg0/LegoRemote)
 - [w4ilun/lego-ble-controller](https://github.com/w4ilun/lego-ble-controller) - Lego BLE Controller w/ Web Bluetooth
+- [lemio/esp32_ble_wedo](https://github.com/lemio/esp32_ble_wedo) - A library to control LEGO wedo 2.0 with the ESP32 through Bluetooth low energy
+
 
 
 ### Videos
