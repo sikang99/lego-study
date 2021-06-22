@@ -49,6 +49,7 @@ Development using [LEGO](https://www.lego.com/)
 - [antonvh/technichub-remote-hotrod.py](https://gist.github.com/antonvh/88548d95e771043662f038de451e28f2)
 - [cwiz/mobile-autonomous-robot-with-lego-mindstorm-nvidia-jetson](https://github.com/cwiz/mobile-autonomous-robot-with-lego-mindstorm-nvidia-jetson) - Project of autonomous robot using LEGO, NVIDIA Jetson (Interl 3d camera) on ROS Melodic
 - [g3gg0/LegoRemote](https://github.com/g3gg0/LegoRemote)
+- [w4ilun/lego-ble-controller](https://github.com/w4ilun/lego-ble-controller) - Lego BLE Controller w/ Web Bluetooth
 
 
 ### Videos
