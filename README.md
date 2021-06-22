@@ -19,6 +19,7 @@ Development using [LEGO](https://www.lego.com/)
 - 2021/01/13 [The Best Robotics Kits for Beginners](https://www.nytimes.com/wirecutter/reviews/best-robotics-kits-for-beginners/)
 - 2020/09/23 [Best Coding Robots for Kids 2021](https://www.androidcentral.com/best-coding-robots-kids)
 - 2020/06/01 [This ESP32-Based Remote Works with LEGO Technic Motors — and Steam Controllers](https://www.hackster.io/news/this-esp32-based-remote-works-with-lego-technic-motors-and-steam-controllers-16988dd19f83)
+- 2019/11/13 [LegoRemote v1.2 – a BLE/WiFi remote control for motors using a Steam Controller](https://www.g3gg0.de/wordpress/programming/legoremote/)
 - 2018/11/29 [Alternative Programming Languages for LEGO MINDSTORMS](http://www.legoengineering.com/alternative-programming-languages/)
 - 2016/01/26 [A LEGO EV3 semi-autonomous surveillance drone](https://www.linkedin.com/pulse/lego-ev3-semi-autonomous-surveillance-drone-damousis-m-eng-ph-d-)
 
