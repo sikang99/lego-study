@@ -45,6 +45,7 @@ Development using [LEGO](https://www.lego.com/)
 - [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi
 - [antonvh/technichub-remote-tank.py](https://gist.github.com/antonvh/aca9e9a32aaebe337af3fb1a6f2712aa)
 - [antonvh/technichub-remote-hotrod.py](https://gist.github.com/antonvh/88548d95e771043662f038de451e28f2)
+- [cwiz/mobile-autonomous-robot-with-lego-mindstorm-nvidia-jetson](https://github.com/cwiz/mobile-autonomous-robot-with-lego-mindstorm-nvidia-jetson) - Project of autonomous robot using LEGO, NVIDIA Jetson (Interl 3d camera) on ROS Melodic
 
 
 ### Videos
