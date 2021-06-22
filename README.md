@@ -18,6 +18,7 @@ Development using [LEGO](https://www.lego.com/)
 - 2021/06/19 [**How To Remote Control LEGO SPIKE Prime and Robot Inventor with Python**](https://antonsmindstorms.com/2021/06/19/how-to-remote-control-lego-spike-prime-and-robot-inventor-with-python/?fbclid=IwAR1SSq4nC5K1vmOlUYrtYj-DQoX-GyjQyLBn5qYW8UOM69RosnR75PlZ_ZY)
 - 2021/01/13 [The Best Robotics Kits for Beginners](https://www.nytimes.com/wirecutter/reviews/best-robotics-kits-for-beginners/)
 - 2020/09/23 [Best Coding Robots for Kids 2021](https://www.androidcentral.com/best-coding-robots-kids)
+- 2020/06/01 [This ESP32-Based Remote Works with LEGO Technic Motors — and Steam Controllers](https://www.hackster.io/news/this-esp32-based-remote-works-with-lego-technic-motors-and-steam-controllers-16988dd19f83)
 - 2018/11/29 [Alternative Programming Languages for LEGO MINDSTORMS](http://www.legoengineering.com/alternative-programming-languages/)
 - 2016/01/26 [A LEGO EV3 semi-autonomous surveillance drone](https://www.linkedin.com/pulse/lego-ev3-semi-autonomous-surveillance-drone-damousis-m-eng-ph-d-)
 
