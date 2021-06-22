@@ -41,7 +41,7 @@ Development using [LEGO](https://www.lego.com/)
 - [**Anton's MINDSTORMS Hacks**](https://antonsmindstorms.com/)
 - [Virtual Robotics Toolkits](https://www.virtualroboticstoolkit.com/)
 - [The Top 22 Lego Open Source Projects](https://awesomeopensource.com/projects/lego)
-
+- [Awesome LEGO](https://awesomeopensource.com/project/ad-si/awesome-lego)
 
 
 ### Discussion
