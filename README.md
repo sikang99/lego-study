@@ -22,6 +22,8 @@ Development using [LEGO](https://www.lego.com/)
 - 2019/11/13 [LegoRemote v1.2 – a BLE/WiFi remote control for motors using a Steam Controller](https://www.g3gg0.de/wordpress/programming/legoremote/)
 - 2018/11/29 [Alternative Programming Languages for LEGO MINDSTORMS](http://www.legoengineering.com/alternative-programming-languages/)
 - 2016/01/26 [A LEGO EV3 semi-autonomous surveillance drone](https://www.linkedin.com/pulse/lego-ev3-semi-autonomous-surveillance-drone-damousis-m-eng-ph-d-)
+- 2016/12/26 [Building a Bluetooth LE Lego Controller + Web Bluetooth App](https://medium.com/@monkeytypewritr/building-a-bluetooth-le-lego-controller-web-bluetooth-app-754a9993d511)
+- 2016/10/09 [Using Web Bluetooth in Chrome to visualize IMU data](https://medium.com/@monkeytypewritr/web-bluetooth-arduino-101-e8bffefb7068)
 
 
 ### Information
