@@ -21,6 +21,7 @@ Development using [LEGO](https://www.lego.com/)
 - 2020/06/01 [This ESP32-Based Remote Works with LEGO Technic Motors — and Steam Controllers](https://www.hackster.io/news/this-esp32-based-remote-works-with-lego-technic-motors-and-steam-controllers-16988dd19f83)
 - 2019/11/13 [LegoRemote v1.2 – a BLE/WiFi remote control for motors using a Steam Controller](https://www.g3gg0.de/wordpress/programming/legoremote/)
 - 2019/04/16 [Hack Lego Boost with Raspberry Pi](https://magpi.raspberrypi.org/articles/hack-lego-boost-with-raspberry-pi)
+- 2019/01/08 [hProgramming Lego Boost With JavaScript](https://www.s-church.net/blog/2019/01/08/programming-lego-with-javascript-tonight-at-dsmjs/)
 - 2018/11/29 [Alternative Programming Languages for LEGO MINDSTORMS](http://www.legoengineering.com/alternative-programming-languages/)
 - 2018/07/25 [LEGO Technic Mini Tank with ESP32 & 2x NEMA 8 Stepper Motors](https://blog.adafruit.com/2018/07/25/lego-technic-mini-tank-with-esp32-2x-nema-8-stepper-motors-lego-technic-minifig-minitank/)
 - 2016/01/26 [A LEGO EV3 semi-autonomous surveillance drone](https://www.linkedin.com/pulse/lego-ev3-semi-autonomous-surveillance-drone-damousis-m-eng-ph-d-)
@@ -30,6 +31,7 @@ Development using [LEGO](https://www.lego.com/)
 
 ### Information
 - LEGO: [InventorHub](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/)
+    - [LEGO Wireless Protocol Documentation](https://lego.github.io/lego-ble-wireless-protocol-docs/) - 3.0.00
 - [MakeCode](https://makecode.mindstorms.com/) for LEGO
 - [Microsoft MakeCode for LEGO® MINDSTORMS® Education EV3](https://makecode.com/blog/lego/05-15-2018)
 - [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
@@ -64,6 +66,8 @@ Development using [LEGO](https://www.lego.com/)
 - [legoboost/boost](https://github.com/legoboost/boost)
 - [undera/pylgbst](https://github.com/undera/pylgbst) - Python library for LEGO PoweredUp devices
 - [uoguelph-mlrg/GenerativeLEGO](https://github.com/uoguelph-mlrg/GenerativeLEGO) 
+- [churchs19/lego-movehub-remote](https://github.com/churchs19/lego-movehub-remote) - Lego Boost MoveHub remote control
+- [LEGO/lego-ble-wireless-protocol-docs](https://github.com/LEGO/lego-ble-wireless-protocol-docs) - This repository contains information about LEGO Hubs (name, battery level, etc.) and to interact with any sensors and motors connected to it.
 
 
 ### Videos
