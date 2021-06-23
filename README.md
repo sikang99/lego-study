@@ -68,6 +68,7 @@ Development using [LEGO](https://www.lego.com/)
 - [uoguelph-mlrg/GenerativeLEGO](https://github.com/uoguelph-mlrg/GenerativeLEGO) 
 - [churchs19/lego-movehub-remote](https://github.com/churchs19/lego-movehub-remote) - Lego Boost MoveHub remote control
 - [LEGO/lego-ble-wireless-protocol-docs](https://github.com/LEGO/lego-ble-wireless-protocol-docs) - This repository contains information about LEGO Hubs (name, battery level, etc.) and to interact with any sensors and motors connected to it.
+- [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) - A Javascript module to interface with LEGO Powered Up components.
 
 
 ### Videos
