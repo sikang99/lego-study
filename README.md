@@ -70,6 +70,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Papers
+- 2020 [Building LEGO Using Deep Generative Models of Graphs](https://arxiv.org/pdf/2012.11543.pdf)
 - 2020 [Educational Robotics: Platforms, Competitions and Expected Learning Outcomes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9281039)
 - 2020 [Legodroid: A Type-Driven Library for Android and LEGO Mindstorms Interoperability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181153/)
 - 2018 [Comparison on Cloud Image Classification for Thrash Collecting LEGO Mindstorms EV3 Robot](https://core.ac.uk/download/pdf/229280513.pdf)
