@@ -62,6 +62,7 @@ Development using [LEGO](https://www.lego.com/)
 - [JorgePe/BOOSTreveng](https://github.com/JorgePe/BOOSTreveng)
 - [PacktPublishing/Building-Smart-LEGO-MINDSTORMS-EV3-Robots](https://github.com/PacktPublishing/Building-Smart-LEGO-MINDSTORMS-EV3-Robots)
 - [legoboost/boost](https://github.com/legoboost/boost)
+- [undera/pylgbst](https://github.com/undera/pylgbst) - Python library for LEGO PoweredUp devices
 
 
 ### Videos
