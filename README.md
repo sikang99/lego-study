@@ -59,6 +59,7 @@ Development using [LEGO](https://www.lego.com/)
 - [w4ilun/lego-ble-controller](https://github.com/w4ilun/lego-ble-controller) - Lego BLE Controller w/ Web Bluetooth
 - [lemio/esp32_ble_wedo](https://github.com/lemio/esp32_ble_wedo) - A library to control LEGO wedo 2.0 with the ESP32 through Bluetooth low energy
 - [JorgePe/BOOSTreveng](https://github.com/JorgePe/BOOSTreveng)
+- [PacktPublishing/Building-Smart-LEGO-MINDSTORMS-EV3-Robots](https://github.com/PacktPublishing/Building-Smart-LEGO-MINDSTORMS-EV3-Robots)
 
 
 ### Videos
