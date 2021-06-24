@@ -45,6 +45,7 @@ Development using [LEGO](https://www.lego.com/)
 - [Virtual Robotics Toolkits](https://www.virtualroboticstoolkit.com/)
 - [The Top 22 Lego Open Source Projects](https://awesomeopensource.com/projects/lego)
 - [Awesome LEGO](https://awesomeopensource.com/project/ad-si/awesome-lego)
+- [BrickNil Docs](https://virantha.github.io/bricknil/) - v0.9.3
 
 
 ### Discussion
