@@ -8,15 +8,17 @@ Development using [LEGO](https://www.lego.com/)
 - MindStorms RCX, NXT, NXT 2.0, EV3
     - [MindStorms EV3 User Guide](https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf)
     - [MindStorms Education EV3](https://le-www-live-s.legocdn.com/sc/media/files/user-guides/ev3/ev3_user_guide_us-ab5d4fc71211c1edc77a7362bab2d88a.pdf?la=en-us)
-- Technic
+- Power Up(Technic/City/Boost)
 - WeDo 2.0
 - BuzWizz 3.0
-- Robot Inventor
+- Prime / Robot Inventor
 
 
 ### Articles
-- 2021/06/19 [**How To Remote Control LEGO SPIKE Prime and Robot Inventor with Python**](https://antonsmindstorms.com/2021/06/19/how-to-remote-control-lego-spike-prime-and-robot-inventor-with-python/?fbclid=IwAR1SSq4nC5K1vmOlUYrtYj-DQoX-GyjQyLBn5qYW8UOM69RosnR75PlZ_ZY)
+- 2021/06/19 [**How To Remote Control LEGO SPIKE Prime and Robot Inventor with Python**](https://antonsmindstorms.com/2021/06/19/how-to-remote-control-lego-spike-prime-and-robot-inventor-with-python/)
+- 2021/06/01 [Putting Arduino and the ESP32 at Work for STEM Education](https://www.infoq.com/news/2021/06/elecrow-crowbits-stem-scratch/)
 - 2021/01/13 [The Best Robotics Kits for Beginners](https://www.nytimes.com/wirecutter/reviews/best-robotics-kits-for-beginners/)
+- 2020/11/05 [Open Sourrce LEGO Controller](https://hackaday.com/2020/11/05/open-source-lego-controller/)
 - 2020/09/23 [Best Coding Robots for Kids 2021](https://www.androidcentral.com/best-coding-robots-kids)
 - 2020/06/01 [This ESP32-Based Remote Works with LEGO Technic Motors — and Steam Controllers](https://www.hackster.io/news/this-esp32-based-remote-works-with-lego-technic-motors-and-steam-controllers-16988dd19f83)
 - 2019/11/13 [LegoRemote v1.2 – a BLE/WiFi remote control for motors using a Steam Controller](https://www.g3gg0.de/wordpress/programming/legoremote/)
@@ -49,6 +51,7 @@ Development using [LEGO](https://www.lego.com/)
 - [The Top 22 Lego Open Source Projects](https://awesomeopensource.com/projects/lego)
 - [Awesome LEGO](https://awesomeopensource.com/project/ad-si/awesome-lego)
 - [BrickNil Docs](https://virantha.github.io/bricknil/) - v0.9.3
+- [Legoino](https://www.arduino.cc/reference/en/libraries/legoino)
 
 
 ### Discussion
@@ -75,6 +78,9 @@ Development using [LEGO](https://www.lego.com/)
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) - A Javascript module to interface with LEGO Powered Up components.
 - [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 - [virantha/bricknil](https://github.com/virantha/bricknil) - Control LEGO Bluetooth Sensors and Motors with Python
+
+### Open Source (ESP32)
+- [corneliusmunz/legoino](https://github.com/corneliusmunz/legoino) - Arduino Library for controlling Powered UP and Boost controllers
 
 ### Open Source (Raspberry Pi)
 - [meltaxa/musicfig](https://github.com/meltaxa/musicfig) - A Raspberry Pi jukebox that uses LEGO Dimensions and Minifigures to play Spotify or MP3 tracks
