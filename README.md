@@ -72,6 +72,7 @@ Development using [LEGO](https://www.lego.com/)
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) - A Javascript module to interface with LEGO Powered Up components.
 - [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 - [virantha/bricknil](https://github.com/virantha/bricknil) - Control LEGO Bluetooth Sensors and Motors with Python
+- [meltaxa/musicfig](https://github.com/meltaxa/musicfig) - A Raspberry Pi jukebox that uses LEGO Dimensions and Minifigures to play Spotify or MP3 tracks
 
 
 ### Videos
