@@ -52,7 +52,7 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Open Source
-- [https://github.com/LEGO](https://github.com/LEGO) 
+- [LEGO](https://github.com/LEGO) 
 - [ev3dev/ev3dev](https://github.com/ev3dev/ev3dev) - Debian Linux for LEGO MINDSTORMS EV3
 - [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi
 - [antonvh/technichub-remote-tank.py](https://gist.github.com/antonvh/aca9e9a32aaebe337af3fb1a6f2712aa)
@@ -69,6 +69,7 @@ Development using [LEGO](https://www.lego.com/)
 - [churchs19/lego-movehub-remote](https://github.com/churchs19/lego-movehub-remote) - Lego Boost MoveHub remote control
 - [LEGO/lego-ble-wireless-protocol-docs](https://github.com/LEGO/lego-ble-wireless-protocol-docs) - This repository contains information about LEGO Hubs (name, battery level, etc.) and to interact with any sensors and motors connected to it.
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) - A Javascript module to interface with LEGO Powered Up components.
+- [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 
 
 ### Videos
