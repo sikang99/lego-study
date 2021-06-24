@@ -32,6 +32,9 @@ Development using [LEGO](https://www.lego.com/)
 ### Information
 - LEGO: [InventorHub](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/)
     - [LEGO Wireless Protocol Documentation](https://lego.github.io/lego-ble-wireless-protocol-docs/) - 3.0.00
+    - [Hub Documentation](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/) - Micropython
+    - [Unofficial LEGO SPIKE Prime (45678)and LEGO MINDSTORMS Robot Inventor (51515) low-level hubs module documentation](https://hubmodule.readthedocs.io/en/latest/)
+    - [Pybricks API Documentation](https://docs.pybricks.com/en/latest/media.html)
 - [MakeCode](https://makecode.mindstorms.com/) for LEGO
 - [Microsoft MakeCode for LEGO® MINDSTORMS® Education EV3](https://makecode.com/blog/lego/05-15-2018)
 - [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/roboticscurriculum/)
@@ -72,7 +75,13 @@ Development using [LEGO](https://www.lego.com/)
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) - A Javascript module to interface with LEGO Powered Up components.
 - [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 - [virantha/bricknil](https://github.com/virantha/bricknil) - Control LEGO Bluetooth Sensors and Motors with Python
+
+### Open Source (Raspberry Pi)
 - [meltaxa/musicfig](https://github.com/meltaxa/musicfig) - A Raspberry Pi jukebox that uses LEGO Dimensions and Minifigures to play Spotify or MP3 tracks
+
+### Open Source (Jetson Nano)
+- [beemsoft/lego-mindstorms-51515-jetson-nano](https://github.com/beemsoft/lego-mindstorms-51515-jetson-nano) - Combines the LEGO Mindstorms 51515 with the NVIDIA Jetson Nano
+- [beemsoft/lego-mindstorms-51515-jetson-nano-2gb-jetbot](https://github.com/beemsoft/lego-mindstorms-51515-jetson-nano-2gb-jetbot) - An educational AI robot based on NVIDIA Jetson Nano 2gb and the LEGO Mindstorms 51515
 
 
 ### Videos
