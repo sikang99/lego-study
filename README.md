@@ -67,8 +67,7 @@ Development using [LEGO](https://www.lego.com/)
 - [cwiz/mobile-autonomous-robot-with-lego-mindstorm-nvidia-jetson](https://github.com/cwiz/mobile-autonomous-robot-with-lego-mindstorm-nvidia-jetson) - Project of autonomous robot using LEGO, NVIDIA Jetson (Interl 3d camera) on ROS Melodic
 - [g3gg0/LegoRemote](https://github.com/g3gg0/LegoRemote)
 - [w4ilun/lego-ble-controller](https://github.com/w4ilun/lego-ble-controller) - Lego BLE Controller w/ Web Bluetooth
-- [lemio/esp32_ble_wedo](https://github.com/lemio/esp32_ble_wedo) - A library to control LEGO wedo 2.0 with the ESP32 through Bluetooth low energy
-- [JorgePe/BOOSTreveng](https://github.com/JorgePe/BOOSTreveng)
+- [JorgePe/BOOSTreveng](https://github.com/JorgePe/BOOSTreveng) - Reverse engineering the LEGO BOOST Hub
 - [PacktPublishing/Building-Smart-LEGO-MINDSTORMS-EV3-Robots](https://github.com/PacktPublishing/Building-Smart-LEGO-MINDSTORMS-EV3-Robots)
 - [legoboost/boost](https://github.com/legoboost/boost)
 - [undera/pylgbst](https://github.com/undera/pylgbst) - Python library for LEGO PoweredUp devices
@@ -80,7 +79,9 @@ Development using [LEGO](https://www.lego.com/)
 - [virantha/bricknil](https://github.com/virantha/bricknil) - Control LEGO Bluetooth Sensors and Motors with Python
 
 ### Open Source (ESP32)
+- [lemio/esp32_ble_wedo](https://github.com/lemio/esp32_ble_wedo) - A library to control LEGO wedo 2.0 with the ESP32 through Bluetooth low energy
 - [corneliusmunz/legoino](https://github.com/corneliusmunz/legoino) - Arduino Library for controlling Powered UP and Boost controllers
+- [pl-toon/pl-toon-codes](https://github.com/pl-toon/pl-toon-codes) - PL-TOON material
 
 ### Open Source (Raspberry Pi)
 - [meltaxa/musicfig](https://github.com/meltaxa/musicfig) - A Raspberry Pi jukebox that uses LEGO Dimensions and Minifigures to play Spotify or MP3 tracks
@@ -98,6 +99,7 @@ Development using [LEGO](https://www.lego.com/)
 - 2020 [Building LEGO Using Deep Generative Models of Graphs](https://arxiv.org/pdf/2012.11543.pdf)
 - 2020 [Educational Robotics: Platforms, Competitions and Expected Learning Outcomes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9281039)
 - 2020 [Legodroid: A Type-Driven Library for Android and LEGO Mindstorms Interoperability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181153/)
+- 2020 [Structure Design and Control of Mass of Fog Monitoring Robot Installed on the Highway Guardrail Based on ESP32](https://ieeexplore.ieee.org/document/9189255)
 - 2018 [Comparison on Cloud Image Classification for Thrash Collecting LEGO Mindstorms EV3 Robot](https://core.ac.uk/download/pdf/229280513.pdf)
 - 2018 [Design and Implementation of a Real-Time Autonomous Navigation System Applied to Lego Robots](https://folk.ntnu.no/skoge/prost/proceedings/PID-2018/0134.PDF)
 - 2017 [Application of color sensor programming with LEGO-Mindstorms NXT 2.0 to recreate a simplistic plague detection scenario](https://revistas.utp.edu.co/index.php/revistaciencia/article/view/15101/10621)
@@ -115,5 +117,6 @@ Development using [LEGO](https://www.lego.com/)
 ### Vendors
 - [LEGO](https://www.lego.com/) - Original
 - [SBrick](https://sbrick.com/) - a controlling system compatible with any LEGO family kits.
-- [ModuleKing](https://mouldkingblock.com/) 
+- [ModuleKing](https://mouldkingblock.com/), China
+- KAIYU, China
 
