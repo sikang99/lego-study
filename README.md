@@ -54,6 +54,7 @@ Development using [LEGO](https://www.lego.com/)
 - [BrickNil Docs](https://virantha.github.io/bricknil/) - v0.9.3
 - [Legoino](https://www.arduino.cc/reference/en/libraries/legoino)
 - [Use Lego EV3 sensors with Arduino](https://hackaday.io/project/173770-use-lego-ev3-sensors-with-arduino)
+- [M5Stack](https://m5stack.com/) - Modular Open Source IoT Development Platform
 
 
 ### Discussion
@@ -87,6 +88,7 @@ Development using [LEGO](https://www.lego.com/)
 - [thomasfla/Linux-ESPNOW](https://github.com/thomasfla/Linux-ESPNOW) - An attempt at implementing a direct link between a linux station and an ESP module using ESPNOW protocol for real time robot control
 - [**osullivp/Lego51515BLEArduinoTensorFlow**](https://github.com/osullivp/Lego51515BLEArduinoTensorFlow) 
 - [m5stack/m5-docs](https://github.com/m5stack/m5-docs) - The URL of M5Stack Official Documents
+- [m5stack/M5Stack-Camera](https://github.com/m5stack/M5Stack-Camera) - Base espressif esp32-camera
 
 
 ### Open Source (Raspberry Pi)
