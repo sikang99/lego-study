@@ -82,6 +82,9 @@ Development using [LEGO](https://www.lego.com/)
 - [lemio/esp32_ble_wedo](https://github.com/lemio/esp32_ble_wedo) - A library to control LEGO wedo 2.0 with the ESP32 through Bluetooth low energy
 - [corneliusmunz/legoino](https://github.com/corneliusmunz/legoino) - Arduino Library for controlling Powered UP and Boost controllers
 - [pl-toon/pl-toon-codes](https://github.com/pl-toon/pl-toon-codes) - PL-TOON material
+- [thomasfla/Linux-ESPNOW](https://github.com/thomasfla/Linux-ESPNOW) - An attempt at implementing a direct link between a linux station and an ESP module using ESPNOW protocol for real time robot control
+- [**osullivp/Lego51515BLEArduinoTensorFlow**](https://github.com/osullivp/Lego51515BLEArduinoTensorFlow) 
+
 
 ### Open Source (Raspberry Pi)
 - [meltaxa/musicfig](https://github.com/meltaxa/musicfig) - A Raspberry Pi jukebox that uses LEGO Dimensions and Minifigures to play Spotify or MP3 tracks
@@ -92,7 +95,13 @@ Development using [LEGO](https://www.lego.com/)
 
 
 ### Videos
-- [LEGO Technic 42124](https://www.youtube.com/results?search_query=LEGO+Technic+42124)
+- [LEGO 42124 Buggy Car](https://www.youtube.com/results?search_query=LEGO+Technic+42124)
+
+### Products
+- [LEGO 42124 Off-Road Buggy](https://www.lego.com/en-us/product/off-road-buggy-42124)
+- [LEGO 42100 Excavator](https://www.lego.com/en-us/product/liebherr-r-9800-excavator-42100)
+- [LEGO 51515 Robot Inventor](https://www.lego.com/en-us/product/robot-inventor-51515)
+
 
 
 ### Papers
@@ -119,4 +128,7 @@ Development using [LEGO](https://www.lego.com/)
 - [SBrick](https://sbrick.com/) - a controlling system compatible with any LEGO family kits.
 - [ModuleKing](https://mouldkingblock.com/), China
 - KAIYU, China
+- CaDA, China
+- ZKZC, China
+- MakerFire, China
 
