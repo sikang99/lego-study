@@ -55,6 +55,8 @@ Development using [LEGO](https://www.lego.com/)
 - [Legoino](https://www.arduino.cc/reference/en/libraries/legoino)
 - [Use Lego EV3 sensors with Arduino](https://hackaday.io/project/173770-use-lego-ev3-sensors-with-arduino)
 - [M5Stack](https://m5stack.com/) - Modular Open Source IoT Development Platform
+- iHackSpace: [Lego Loom](https://hackspace.raspberrypi.org/articles/lego-loom)
+
 
 
 ### Discussion
