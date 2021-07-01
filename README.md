@@ -140,4 +140,7 @@ Development using [LEGO](https://www.lego.com/)
 - CaDA, China
 - ZKZC, China
 - MakerFire, China
+- KittenBot - Microbit based contrroller + Lego
+
+
 
