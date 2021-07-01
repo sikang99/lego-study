@@ -2,7 +2,7 @@
 # Makefile for python-study
 #
 .PHONY: usage edit build clean git
-VERSION=0.0.0.6
+VERSION=0.0.0.7
 #----------------------------------------------------------------------------------
 usage:
 	@echo "make [edit|build]"
@@ -14,7 +14,7 @@ edit-go eg:
 edit-history eh:
 	vi HISTORY.md
 #----------------------------------------------------------------------------------
-MSG="start"
+MSG="studying"
 git g:
 	@echo "make (git:g) [update|store]"
 git-update gu:
