@@ -15,6 +15,7 @@ Development using [LEGO](https://www.lego.com/)
 - MOC - My Own Creation, the commonly used acronym for custom LEGO® creations.
 
 ### Articles
+- 2021/06/30 [Lego Technic Based CUBLI](https://www.hackster.io/liemph/lego-technic-based-cubli-156448)
 - 2021/06/19 [**How To Remote Control LEGO SPIKE Prime and Robot Inventor with Python**](https://antonsmindstorms.com/2021/06/19/how-to-remote-control-lego-spike-prime-and-robot-inventor-with-python/)
 - 2021/06/01 [Putting Arduino and the ESP32 at Work for STEM Education](https://www.infoq.com/news/2021/06/elecrow-crowbits-stem-scratch/)
 - 2021/01/13 [The Best Robotics Kits for Beginners](https://www.nytimes.com/wirecutter/reviews/best-robotics-kits-for-beginners/)
