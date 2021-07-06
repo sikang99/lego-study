@@ -96,6 +96,7 @@ Development using [LEGO](https://www.lego.com/)
 
 ### Open Source (Raspberry Pi)
 - [meltaxa/musicfig](https://github.com/meltaxa/musicfig) - A Raspberry Pi jukebox that uses LEGO Dimensions and Minifigures to play Spotify or MP3 tracks
+- [felipessalvatore/self_driving_pi_car](https://github.com/felipessalvatore/self_driving_pi_car) - A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3
 
 
 ### Open Source (Jetson Nano)
