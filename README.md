@@ -84,6 +84,8 @@ Development using [LEGO](https://www.lego.com/)
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) - A Javascript module to interface with LEGO Powered Up components.
 - [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines.
 - [virantha/bricknil](https://github.com/virantha/bricknil) - Control LEGO Bluetooth Sensors and Motors with Python
+- [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi
+
 
 ### Open Source (ESP32)
 - [lemio/esp32_ble_wedo](https://github.com/lemio/esp32_ble_wedo) - A library to control LEGO wedo 2.0 with the ESP32 through Bluetooth low energy
